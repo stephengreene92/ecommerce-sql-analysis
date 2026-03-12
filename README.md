@@ -118,3 +118,27 @@ This project demonstrates skills in:
 - KPI design
 - Data visualisation
 - Business insight generation
+
+---
+
+## Dashboard
+
+### KPI Overview
+
+![KPI](images/kpi_overview.png)
+
+### Monthly Revenue Trend
+
+![Revenue](images/revenue_trend.png)
+
+### Orders per Month
+
+![Orders](images/orders_month.png)
+
+### Repeat vs One-time Customers
+
+![Repeat](images/repeat_customers.png)
+
+### Delivery Time Distribution
+
+![Delivery](images/delivery_time.png)
